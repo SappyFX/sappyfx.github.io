@@ -375,4 +375,13 @@
     .sbutton2:hover {
         filter: hue-rotate(360deg)
     }
+    .bold {
+        font-size: 40px;
+        color:#dc143c;
+        font-weight: 400;
+        padding-top:10px;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+    }
 }
